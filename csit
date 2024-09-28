@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Esra Tonka's Web Page</title>
+</head>
+<body style="background-color: green;">
+
+    <!-- Title (Header) -->
+    <h1 style="text-align: center; font-weight: bold;">Esra Tonka</h1>
+    <h2 style="text-align: center;">CSIT100 - Section Number</h2>
+    <h3 style="text-align: center;">09.16.24</h3>
+    
+    <!-- Horizontal Bar -->
+    <hr>
+
+    <!-- Biography Section -->
+    <h2>Biography</h2>
+    <ul>
+        <li>Graduated from Bergen High and Charter High School</li>
+        <li>Contact Information: <a href="mailto:esratonkaa@gmail.com">esratonkaa@gmail.com</a></li>
+    </ul>
+
+    <!-- Hobbies Section -->
+    <h2>Hobbies</h2>
+    <ul>
+        <li>Reading books</li>
+        <li>Playing chess</li>
+    </ul>
+
+    <!-- Horizontal Bar -->
+    <hr>
+
+    <!-- Links to Other Websites -->
+    <h2>Favorite Websites</h2>
+    <ul>
+        <li><a href="https://montclair.edu/nest" target="_blank">Montclair University NEST</a></li>
+        <li><a href="https://www.sephora.com/product/lip-blush-P507174?skuId=2686293" target="_blank">Sephora - Lip Blush</a></li>
+    </ul>
+
+    <!-- Table -->
+    <h2>Table</h2>
+    <table border="1" cellpadding="10">
+        <tr>
+            <th>Montclair State University</th>
+        </tr>
+    </table>
+
+
+</body>
+</html>
